@@ -1,0 +1,35 @@
+Bảng sau là những động từ đòi hỏi mệnh đề sau nó phải ở dạng giả định và trong câu bắt buộc phải có that trong trường hợp đó.
+
+- advise
+- demand 
+- prefer 
+- require
+- ask 
+- insist 
+- propose 
+- stipulate
+- command 
+- move 
+- recommend 
+- suggest
+- decree 
+- order 
+- request 
+- urge
+
+động từ sau chủ ngữ 2 ở dạng nguyên thể không chia bỏ to. Nếu muốn thành lập thể phủ định đặt not sau chủ ngữ 2 trước nguyên thể bỏ to.
+
+ Subject + verb + that + subject + [verb in simple form] + ...
+ 
+ exx:
+ 
+The doctor suggested that his patient stop smoking.
+The doctor suggested that his patient not stop smoking.
+
+Nếu bỏ that đi thì chủ ngữ 2 sẽ trở về dạng tân ngữ và động từ sau nó trở về dạng nguyên thể có to, câu mất tính chất giả định, trở thành một dạng mệnh lệnh thức gián tiếp.
+
+The doctor suggested his patient to stop smoking.
+The doctor suggested his patient not to stop smoking.
+
+Trong ngữ pháp Anh-Anh trước động từ ở mệnh đề 2 thường có should, người Anh chỉ bỏ should khi sau nó là động từ to be nhưng ngữ pháp Anh-Mỹ không dùng should cho toàn bộ động từỏơ mệnh đề 2.
+ 

@@ -1,0 +1,3 @@
+Nó đứng đầu câu phụ, thay thế cho danh từ bất động vật đứng trước nó và đóng vai trò chủ ngữ của câu phụ. Trong trường hợp này không thể lược bỏ that hoặc which:
+
+We bought the stereo that had been advertised at a reduced price. (We bought the stereo. It had been advertised at a reduced price)

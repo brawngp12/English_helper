@@ -1,0 +1,74 @@
+Trong một số trường hợp các phó từ không đứng ở vị trí bình thường của nó mà đảo lên đứng ở đầu câu nhằm nhấn mạnh vào hành động của chủ ngữ. Trong trường hợp đó ngữ pháp sẽ thay đổi, đằng sau phó từ đứng đầu câu là trợ động từ rồi mới đến chủ ngữ và động từ chính:
+
+John hardly remembers the accident that took his sister's life. Hardly does John remember the accident that took his sister's life.
+ 
+hardly/rarely/seldom/never/only.. + auxiliary + S + verb..
+
+ex:
+Never have so many people been unemployed as today.
+(So many people have never been unemployed as today)
+Hardly had he fallen asleep when he began to dream of far-way lands.
+(He had hardly fallen asleep when he began to dream of far-way lands.) Rarely have we seen such an effective actor as he has proven himself to be.
+(We have rarely seen such an effective actor as he has proven himself to be.) Seldom does class let out early.
+(Class seldom lets out early.)
+Only by hard work will we be able to accomplish this great task.
+(We will be able to accomplish this great task only by hard work.)
+
+Một số các trạng từ đặc biệt khác cũng thường đứng ở đầu câu, phải đảo cấu trúc câu như trên:
+
+•	In/ Under no circumstances: Dù trong bất cứ hoàn cảnh nào cũng không.
+Under no circumstances should you lend him the money.
+
+•	On no account: Dù bất cứ lý do gì cũng không
+On no accout must this switch be touched.
+
+•	Only in this way: Chỉ bằng cách này
+Only in this way could the problem be solved
+
+•	In no way: Không sao có thể
+In no way could I agree with you.
+
+•	By no means: Hoàn toàn không
+By no means does he intend to criticize your idea.
+
+•	Negative ..., nor + auxiliary + S + V
+He had no money, nor did he know anybody from whom he could borrow.
+
+•	Khi một mệnh đề mở đầu bằng các thành ngữ chỉ nơi chốn hoặc trật tự thì động từ chính có thể đảo lên chủ ngữ nhưng tuyệt đối không được sử dụng trợ động từ trong trường hợp này.
+Clause of place/ order + main verb + S (no auxiliary) In front of the museum is a statue.
+First came the ambulance, then came the police.
+( Thoạt đầu là xe cứu thương chạy đến, tiếp sau là cảnh sát.)
+ 
+•	Khi một ngữ giới từ làm phó từ chỉ địa điểm hoặc phương hướng đứng ở đầu câu, các nội động từ đặt lên trước chủ ngữ nhưng tuyệt đối không được sử dụng trợ động từ trong loại câu này. Nó rất phổ biến trong văn mô tả khi muốn diễn đạt một chủ ngữ không xác định:
+Under the tree was lying one of the biggest men I had ever seen. Directly in front of them stood a great castle.
+On the grass sat an enormous frog.
+Along the road came a strange procession.
+
+•	Tính từ cũng có thể đảo lên trên đầu câu để nhấn mạnh và sau đó là liên từ nhưng tuyệt đối không được sử dụng trợ động từ.
+So determined was she to take the university course that she taught school and gave music lesson for her tuition fees.
+
+•	Trong một số trường hợp người ta cũng có thể đảo toàn bộ động từ chính lên trên chủ ngữ để nhấn mạnh, những động từ được đảo lên trên trong trường hợp này phần lớn đều mang sắc thái bị động nhưng hoàn toàn không có nghĩa bị động.
+Lost, however, are the secrets of the Mayan astronomers and the Inca builders as well as many medicinal practices.
+(Mất đi vĩnh viễn, tuy vậy, lại là những bí mật của những nhà thiên văn thuộc nền văn minh Mayan, ...)
+
+•	Các phó từ away ( = off ), down, in, off, out, over, round, up... có thể theo sau là một động từ chuyển động và sau đó là một danh từ làm chủ ngữ:
++ Away/down/in/off/out/over/round/up...+ motion verb + noun/noun phrase as a subject.
+Away went the runners/ Down fell a dozen of apples...
++ Nhưng nếu một đại từ nhân xưng làm chủ ngữ thì động từ phải để sau chủ ngữ: Away they went/ Round and round it flew.
++ Trong tiếng Anh viết (written English) các ngữ giới từ mở đầu bằng các giới từ down, from, in, on, over, out of, round, up... có thể được theo sau ngay bởi động từ chỉ vị trí (crouch, hang, lie, sit, stand...) hoặc các dạng động từ chỉ chuyển động, các động từ như be born/ die/ live và một số dạng động từ khác.
+From the rafters hung strings of onions. In the doorway stood a man with a gun. On a perch beside him sat a blue parrot. Over the wall came a shower of stones.
+
+*Lưu ý: 3 ví dụ đầu của các ví dụ trên có thể diễn đạt bằng một VERB-ING mở đầu cho câu và động từ BE đảo lên trên chủ ngữ:
+Hanging from the rafters were strings of onion. Standing in the doorway was a man with a gun. Sitting on a perch beside him was a blue parrot.
+Hiện tượng này còn xảy ra khi chủ ngữ sau các phó từ so sánh as/than quá dài: She was very religious, as were most of her friends.
+City dwellers have a higher death rate than do country people.
+ 
+•	Tân ngữ mang tính nhấn mạnh cũng có thể đảo lên đầu câu: Not a single word did he say.
+
+•	Here/There hoặc một số các phó từ đi kết hợp với động từ đứng đầu câu cũng phải đảo động từ lên trên chủ ngữ là một danh từ, nhưng nếu chủ ngữ là một đại từ thì không được đảo động từ:
+Here comes Freddy.
+Incorrect: Here comes he
+Off we go
+Incorrect: Off go we
+There goes your brother
+I stopped the car, and up walked a policeman.

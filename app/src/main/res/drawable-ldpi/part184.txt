@@ -1,0 +1,4 @@
+Trong câu phủ định, thêm not vào sau trợ động từ, trước động từ chính: 
+John will leave now. => John will not leave now.
+He can swim => He can not swim.
+Chú ý khi viết tắt: will not => won't; must not => musn't; would not => wouldn't; could not => couldn't; can not => can't.

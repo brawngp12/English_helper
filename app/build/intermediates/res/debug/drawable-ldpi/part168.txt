@@ -1,0 +1,13 @@
+Cũng giống như too và so trong câu khẳng định, để phụ hoạ một câu phủ định, người ta dùng either hoặc neither. Hai từ này có nghĩa “cũng không”. Ba quy tắc đối với trợ động từ, động từ be hoặc do, does, did cũng được áp dụng giống như trên. Ta cũng có thể gói gọn 3 quy tắc đó vào một công thức như sau:
+ 
+negative statenment + and + { S negative auxiliary (or be)  + either
+
+negative statenment + and + neither + positive auxiliary ( or be ) + S
+
+ 
+
+I didn't see Mary this morning, and John didn't either
+I didn't see Mary this morning, and neither did John.
+She won’t be going to the conference, and her friends won’t either. 
+She won’t be going to the conference, and neither will her friends. John hasn’t seen the new movie yet, and I haven’t either.
+John hasn’t seen the new movie yet, and neither have I.

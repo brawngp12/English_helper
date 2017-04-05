@@ -1,0 +1,42 @@
+Các phó từ và cụm phó từ chỉ phương thức của hành động có thể đứng đầu câu, cuối câu hoặc giữa câu (thông dụng hơn). Ví dụ:
+ 
+He angrily slammed the door. 
+He slammed the door angrily. 
+Angrily he slammed the door.
+
+Khi đứng giữa câu, phó từ đứng giữa chủ ngữ và động từ chính, nhưng đứng sau trợ động từ hoặc động từ be nếu có.
+
+Ina had carefully placed the vase on the table. 
+Ina had been carefully arranging the flowers.
+
+Vị trí của phó từ có thể làm thay đổi ý nghĩa của câu. Xét các câu sau: 
+
+She answered the question immediately.
+She immediately answered the question. 
+She answered the question foolishly.
+She foolishly answered the question.
+
+Trong hai câu đầu, ý nghĩa của câu không bị ảnh hưởng bởi vị trí của phó từ, nhưng ở hai câu sau thì có sự khác nhau. Câu 3 cho biết câu trả lời của cô ta là ngốc ngếch, còn câu 4 có nghĩa “Cô ấy thật ngốc ngếch khi trả lời câu hỏi”. Phó từ foolishly khi đứng ở cuối câu thì chỉ bổ nghĩa cho động từ answered the question, nhưng khi được đặt giữa câu lại có liên hệ với chủ ngữ nhiều hơn là với động từ. Hiện tượng này cũng xảy ra với các loại
+phó từ khác. Nghiên cứu thêm các ví dụ sau:
+
+John was able to solve this problem without any help.
+(John có thể giải được bài toán này mà không cần sự trợ giúp nào) 
+Even John was able to solve this problem without any help.
+(Ngay cả John cũng có thể giải được bài toán này mà ...) 
+John was even able to solve this problem without any help. 
+(John có thể thậm chí giải được bài toán này mà ...)
+John was able to solve even this problem without any help. 
+(John có thể giải được ngay cả bài toán này mà không cần ...) 
+John was able to solve this problem even without any help.
+(John có thể giải được bài toán này mà thậm chí không cần tới sự trợ giúp nào) 
+He completely failed to agree with me.
+(Anh ta hoàn toàn không đồng ý với tôi) 
+He failed to agree completely with me. 
+(Anh ta không đồng ý hoàn toàn với tôi)
+
+Phó từ chỉ cách thức của hành động thường chỉ đứng giữa câu khi nó là từ đơn (với đuôi
+–ly). Phần lớn các phó từ thuộc dạng này. Nhưng cũng có một số phó từ là một cụm từ, thường bắt đầu bằng with. Khi đó phải đặt nó ở cuối câu:
+She was looking through the notes with great interest.
+Tương tự như vậy, khi hai phó từ ghép song song với nhau, chúng cũng phải ở cuối câu.
+She angrily called him an idiot.
+She called him an idiot angrily and loudly.

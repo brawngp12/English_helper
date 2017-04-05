@@ -1,0 +1,3 @@
+Là loại mệnh đề bắt buộc phải có mặt ở trong câu, nếu bỏ đi câu sẽ mất ý nghĩa ban đầu. Nên dùng that làm chủ ngữ cho loại câu này mặc dù which vẫn được chấp nhận. Câu phụ thường đứng xen vào giữa câu chính hoặc nối liền với câu chính và không tách rời khỏi nó bởi bất cứ dấu phảy nào. Trong ví dụ sau nếu bỏ đi mệnh đề phụ được gạch chân thì câu sẽ mang ý nghĩa hoàn toàn khác:
+
+Weeds that float to the surface should be removed before they decay.

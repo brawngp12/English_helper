@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/txt_dtbqt_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="TextView"
+        android:textColor="@color/red"
+        android:textSize="30dp" />
+    <TextView
+        android:id="@+id/txt_dtbqt_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txt_dtbqt_3"
+        android:text="TextView"
+        android:textColor="@color/red"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/txt_dtbqt_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txt_dtbqt_4"
+        android:text="TextView"
+        android:textColor="@color/red"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/txt_dtbqt_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txt_dtbqt_5"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/txt_dtbqt_vd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txt_dtbqt_6"
+        android:layout_marginTop="16dp"
+        android:layout_toLeftOf="@+id/ImageButton03"
+        android:text="Large Text"
+        android:textColor="@color/black"
+        android:textSize="30dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="24dp"
+        android:background="@drawable/nghe1"/>
+
+    <ImageButton
+        android:id="@+id/ImageButton01"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/imageButton1"
+        android:layout_alignTop="@+id/txt_dtbqt_4"
+        android:background="@drawable/nghe1"/>
+
+    <ImageButton
+        android:id="@+id/ImageButton02"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/txt_dtbqt_5"
+        android:layout_alignLeft="@+id/ImageButton01"
+       	android:background="@drawable/nghe1" />
+
+    <ImageButton
+        android:id="@+id/ImageButton03"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/ImageButton02"
+        android:layout_alignTop="@+id/txt_dtbqt_vd"
+        android:background="@drawable/nghe1"/>
+
+</RelativeLayout>

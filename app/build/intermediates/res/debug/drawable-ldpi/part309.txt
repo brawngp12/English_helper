@@ -1,0 +1,9 @@
+Nếu đại từ ở đầu câu là you thì các đại từ tương ứng tiếp theo ở dưới sẽ là you hoặc your.
+ 
+ex:
+If you take this exam without studying, you are likely to fail. 
+You should always do your homework.
+
+Tuyệt đối không dùng lẫn one và you trong cùng một câu hoặc dùng they thay thế cho hai
+đại từ này.
+

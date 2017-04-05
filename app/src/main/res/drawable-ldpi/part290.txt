@@ -1,0 +1,16 @@
+S + V + not only + noun/ adj/ adv/ prepositional phrase + but also + noun/ adj/ adv/ prepositional phrase
+
+Hoặc: S + not only + V1 + but also + V2
+
+Hoặc: Not only + S1 + but also + S2 + V (chia theo chủ ngữ số nhiều) + O
+
+ex :
+Robert is not only talented but also handsome. (adjective-adjective) 
+He writes not only correctly but also neatly. (adverb-adverb)
+She can play not only the guitar but also the violin. (noun-noun) 
+She not only plays the piano but also composes music. (verb-verb)
+
+Thành phần sau but also thường quyết định thành phần sau not only.
+
+Incorrect: He is not only famous in Italy but also in Switzerland.
+Correct: He is famous not only in Italy but also in Switzerland.

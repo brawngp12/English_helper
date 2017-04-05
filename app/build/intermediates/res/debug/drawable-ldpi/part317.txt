@@ -1,0 +1,43 @@
+Trong câu trực tiếp thông tin đi từ người thứ nhất đến thẳng người thứ hai (người thứ
+nhất nói trực tiếp với người thứ hai).
+
+He said "I bought a new motorbike for myself yesterday".
+
+Trong câu gián tiếp thông tin đi từ người thứ nhất qua người thứ hai đến với người thứ
+ba. Khi đó câu có biến đổi về mặt ngữ pháp.
+
+He said he had bought a new motorbike for himself the day before.
+
+để biến đổi một câu trực tiếp sang câu gián tiếp cần:
+1. đổi chủ ngữ và các đại từ nhân xưng khác trong câu trực tiếp theo chủ ngữ của thành phần thứ nhất.
+2. Lùi động từ ở vế thứ 2 xuống một cấp so với lúc ban đầu.
+3. Biến đổi các đại từ chỉ thị, phó từ chỉ thời gian và địa điểm theo bảng qui định.
+ 
+ quy tắc đổi động từ
+Simple present >> Simple past
+Present progressive  >> Past progressive
+Present perfect (Progressive) >> Past perfect (Progressive)
+Simple past  >Past perfect
+Will/Shall >> Would/ Should
+Can/May  >>  Could/ Might
+
+Cách chuyển đổi các đại từ chỉ thị, phó từ chỉ địa điểm và thời gian
+
+Today  >  That day
+Yesterday > The day before
+The day before yesterday > Two days before
+Tomorrow > The next/ the following day
+The day after tomorrow > In two days' time
+Next + Time  > The following + Time 
+Last + Time >  The previous + Time
+Time + ago  >  Time + before
+This, these  > That, those
+Here, Overhere > There, Overthere
+
+Nếu lời nói và hành động xảy ra cùng ngày thì không cần phải đổi thời gian.
+
+At breakfast this morning he said "I will be busy today". At breakfast this morning he said he would be busy today.
+
+Các suy luận logic về mặt thời gian tất nhiên là cần thiết khi lời nói được thuật lại sau đó một hoặc hai ngày.
+
+(On Monday) He said " I'll be leaving on Wednesday " (On Tuesday) He said he would be leaving tomorrow. (On Wednesday) He said he would be leaving today.

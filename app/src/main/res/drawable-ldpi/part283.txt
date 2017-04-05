@@ -1,0 +1,2 @@
+Câu giả định hay còn gọi là câu cầu khiến là loại câu đối tượng thứ nhất muốn đối tượng thứ hai làm một việc gì. Câu giả định có tính chất cầu khiến chứ không mang tính ép
+buộc như câu mệnh lệnh. Trong câu giả định, người ta dùng dạng nguyên thể không có to của các động từ sau một số động từ chính mang tính cầu khiến. Thường có that trong câu giả định trừ một số trường hợp đặc biệt.

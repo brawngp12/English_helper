@@ -1,0 +1,21 @@
+ me   | us
+ you  | you
+ him
+ her
+ it   | them
+ 
+ đại từ tân ngữ đứng ở vị trí tân ngữ (đằng sau động từ hoặc giới trừ khi giới từ đó mở đầu một mệnh đề mới). Bạn cần phân biệt rõ đại từ tân ngữ với đại từ chủ ngữ. Chủ ngữ là chủ thể của hành động (gây ra hành động), còn tân ngữ là đối tượng nhận sự tác động của hành động.
+
+ex:
+They invited us to the party last night. 
+
+The teacher gave him a bad grade.
+
+I told her a story.
+
+The policeman was looking for him.
+
+đằng sau us có thể dùng một danh từ số nhiều trực tiếp, giống như đối với đại từ nhân xưng chủ ngữ.
+
+The teacher has made a lot of questions for us students.
+ 

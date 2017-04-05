@@ -1,0 +1,12 @@
+1) có nghĩa “phải”: mang nghĩa hoàn toàn bắt buộc (mạnh hơn should). Với should
+(nên), nhân vật có thể lựa chọn có thực hiện hành động hay không nhưng với must (phải), họ không có quyền lựa chọn.
+George must call his insurance agent today. A car must have gasoline to run.
+
+A pharmacist must keep a record of the prescripton that are filled.
+(Dược sỹ phải giữ lại bản sao đơn thuốc đã được bác sỹ kê - khi bán thuốc cho bệnh nhân)
+An attorney must pass an examination before practicing law. (Luật sư phải qua một kỳ kiểm tra trước khi hành nghề)
+
+(2) có nghĩa “hẳn là”, “chắc đã”: chỉ một kết luận logic dựa trên những hiện tượng đã xảy ra.
+John's lights are out. He must be asleep.
+(đèn phòng John đã tắt. Anh ta chắc đã ngủ) The grass is wet. It must be raining.
+ 

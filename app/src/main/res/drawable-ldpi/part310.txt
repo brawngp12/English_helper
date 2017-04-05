@@ -1,0 +1,38 @@
+Trong một câu tiếng Anh có 2 mệnh đề, nếu mệnh đề thứ hai có dùng đến đại từ nhân xưng thì ở mệnh đề đầu phải có một danh từ để đại từ đó đại diện. Danh từ đi trước, giới thiệu đại từ phải tương đương với đại từ đó về giống và số.
+
+Incorrect:
+Henry was denied admission to graduate school because they did not believe that he could handle the work load.
+(đại từ they không có danh từ nào đi trước nó để nó làm đại diện. "graduate school" là một đơn vị số ít nên không thể được đại diện bởi they.)
+
+Correct:
+1. The members of the admissions committee denied Henry admission to graduate school because they did not believe that he could handle the work load.
+
+2. Henry was denied admission to graduate school because the members of the admissions committee did not believe that he could handle the work load.
+
+Incorrect:
+George dislikes politics because he believes that they are corrupt.
+George không thích chính trị bởi vì anh cho rằng họ tham nhũng. đại từ they cũng không có danh từ tương ứng đi trước. Politics là một danh từ số ít nên không thể được đại diện bởi they
+
+Correct:
+1. George dislikes politicians because he believes that they are corrupt. (các chính khách)
+2. George dislikes politics because he believes that politicians are corrupt.
+
+Ngược lại với việc thiếu danh từ đi trước đại từ, nếu có quá nhiều (từ hai trở lên) danh từ
+cùng tương ứng với một đại từ thì cũng sẽ gây nhầm lẫn. Xem ví dụ sau:
+
+Incorrect 1:
+Mr. Brown told Mr. Adams that he would have to work all night in order to finish the
+report.
+(Không rõ đại từ he đại diện cho Mr. Brown hay Mr. Adams)
+
+Correct 1:
+ 
+1.	According to Mr. Brown, Mr. Adams will have to work all night in order to finish the report.
+2.	Mr. Brown said that, in order to finish the report, Mr. Adams would have to work all night.
+
+Incorrect 2:
+Janet visited her friend every day while she was on vacation.
+(Không rõ đại từ she đại diện cho Janet hay her friend)
+
+Correct 2:
+While Janet was on vacation, she visited her friend every day.

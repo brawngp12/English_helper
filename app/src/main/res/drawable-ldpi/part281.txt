@@ -1,0 +1,22 @@
+  It + verb + complement + That + S + V = That + S + V + ...+V + complement
+
+  
+It surprises me that John would do such a thing
+That John would do such a thing surprises me.
+
+Người ta dùng chủ ngữ giả it trong văn nói để dễ nhận biết và that làm chủ ngữ thật trong văn viết. Trong một số trường hợp người ta đảo ngữ giới từ lên đầu câu, liên từ hoặc
+động từ tĩnh đảo lên trên THAT và sau đó mới là chủ ngữ thật. Công thức sử dụng như sau:
+  
+  Prepositional phrase + link verb/stative verb + THAT + sentence as real subject, and HAT + sentence as real subject.
+
+Among the surprising discoveries were that T.rex was a far sleeker but more powerful carnivore than previously thought, perhaps weighing less than 6.5 tons - no more than a bull elephant, and that T.rex habitat was forest, not swamp or plain as previously believed.
+
+(Một trong số những phát hiện ngạc nhiên là ở chỗ loài khủng long bạo chúa là một loại ăn thịt có thân hình thon nhỏ hơn nhiều, song dũng mãnh hơn người ta đã từng nghĩ trước đây, có lẽ cân nặng chưa đến 6 tấn rưỡi - tức là không lớn hơn một con voi đực, và rằng môi trường sống của loài khủng long này là rừng chứ không phải là đầm lầy hay đồng bằng như người ta vẫn tưởng.)
+
+  The fact that + sentence
+  The fact remains that + sentence
+  The fact of the matter is that + sentence
+
+ex :
+
+The fact that Simon had not been home for 3 days didn’t seem to worry anybody.

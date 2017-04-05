@@ -1,0 +1,31 @@
+Trong câu tiếng Anh, có nhiều trường hợp rất khó xác định được đâu là chủ ngữ của câu do chủ ngữ và động từ không đi liền với nhau.
+
+ex:
+The boys in the room are playing chess.
+
+Thông thường trong các trường hợp đó, một ngữ giới từ (một giới từ mở đầu và các danh từ theo sau – in the room) thường nằm giữa chủ ngữ và động từ. Các ngữ giới từ này không ảnh hưởng đến việc chia động từ.
+
+ex:
+The study of languages is very interesting.
+Serveral theories on this subject have been proposed. 
+The view of these disciplines varies from time to time. 
+The danger of forest fires is not to be taken lightly.
+
+Chú ý rằng trong các ví dụ trên các danh từ nằm trong ngữ giới từ đều trái ngược với chủ ngữ về số ít / số nhiều nhưng động từ luôn được chia theo chủ ngữ chính.
+
+Các cụm từ sau cùng với các danh từ đi theo sau nó tạo nên hiện tường đồng chủ ngữ. Chúng đứng giữa chủ ngữ và động từ, phân tách khỏi 2 thành phần đó bởi dấu phảy. Chúng cũng không có ảnh hưởng gì đến việc chia động từ.
+
+ex:
+Together with	along with	accompanied by	as well as Mary, along with her manager and some friends, is going to a party tonight. 
+
+Mr. Robbins, accompanied by her wife and children, is arriving tonight.
+
+Nếu 2 danh từ làm chủ ngữ nối với nhau bằng and thì động từ phải chia ở ngôi thứ 3 số nhiều (tương đương với they)
+
+ex:
+Mary and her manager are going to a party tonight.
+
+Nhưng nếu 2 đồng chủ ngữ nối với nhau bằng or thì động từ phải chia theo danh từ đứng sau or. Nếu danh từ đó là số ít thì động từ phải chia số ít và ngược lại.
+
+ex:
+Mary or her manager is going to answer the press interview.

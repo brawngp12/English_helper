@@ -1,0 +1,11 @@
+Ở những mệnh đề phụ bắt buộc, khi không dùng dấu phẩy tức là mệnh đề phụ xác định một giới hạn đối với danh từ đằng trước trong mệnh đề chính
+
+The travelers who knew about the flood took another road. (Những người biết về trận lũ đều chọn đường khác)
+The wine that was stored in the cellar was ruined.
+
+đối với những mệnh đề phụ không bắt buộc, khi có dấu phẩy ngăn cách thì nó không xác
+định giới hạn đối với danh từ đứng trước nó.
+
+The travelers, who knew about the flood, took another road. (Tất cả những người...) The wine, which was stored in the cellar, was ruined.
+
+Note: Các nguyên tắc trên đây chỉ dùng trong văn viết, không dùng trong văn nói. Lỗi ngữ pháp của TOEFL không tính đến mệnh đề phụ bắt buộc nhưng sẽ trừ điểm nếu phạm phải lỗi mệnh đề phụ không bắt buộc.

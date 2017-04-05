@@ -1,0 +1,5 @@
+đặt any đằng trước danh từ làm vị ngữ sẽ nhấn mạnh câu phủ định. Cũng có thể nhấn mạnh một câu phủ định bằng cách dùng no + danh từ hoặc a single + danh từ số ít.
+John has some money => John doesn’t have any money.
+He sold some magazines yesterday => He didn't sell a single magazine yesterday.
+= He sold no magazine yesterday.
+

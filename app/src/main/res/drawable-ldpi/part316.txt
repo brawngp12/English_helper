@@ -1,0 +1,34 @@
+Có hai cách sử dụng tân ngữ của một ngoại động từ mà ý nghĩa của câu không thay đổi. Tân ngữ gián tiếp (indirect object) là tân ngữ chỉ đồ vật hoặc người mà hành động xảy ra đối với (hoặc dành cho) đồ vật hoặc người đó. Tân ngữ trực tiếp (direct object) là người hoặc vật đầu tiên nhận tác động của hành động. Tân ngữ gián tiếp có thể đứng sau tân ngữ trực tiếp, ngăn cách bởi một giới từ hoặc cũng có thể đứng trước tân ngữ trực tiếp (mà không có giới từ). Giới từ thường dùng ở đây là for và to. Ví dụ:
+
+I gave the book to Jim.
+
+The book là tân ngữ trực tiếp và hành động đầu tiên là hành động cầm lấy quyển sách trong tay và hành động thứ hai (gián tiếp) là đưa nó cho Jim.
+
+Khi muốn đổi vị trí giữa tân ngữ trực tiếp và tân ngữ gián tiếp, ta sử dụng một trong hai công thức sau:
+
+    Subject + verb + direct object + [for / to] + indirect object
+
+ex :
+I gave the book to Jim.
+The little boy brought some flowers for his grandmother.
+He lent his car to his brother
+
+    Subject + verb + indirect object + direct object
+  
+ex :
+I gave Jim the book.
+The little boy brought his grandmother some flowers.
+He lent his brother his car.
+Một số trong các từ trên có thể dùng được cả với for và to, một số khác chỉ dùng với một trong 2 giới từ. Chú ý rằng trong công thức thứ hai nêu trên, khi tân ngữ gián tiếp đứng trước tân ngữ trực tiếp thì không dùng giới từ giữa chúng:
+
+đúng:	The director's secretary sent them the menuscript last night.
+Sai:	The director's secretary sent to them the menuscript last night.
+
+Nếu cả tân ngữ trực tiếp và gián tiếp đều là đại từ thì chỉ được dùng công thức thứ nhất, không dùng công thức 2:
+
+đúng:	They gave it to us.
+Sai:	They gave us it.
+
+Chú ý: Hai động từ introduce (giới thiệu ai với ai) và mention (đề cập đến cái gì trước mặt ai) luôn dùng cùng với giới từ to nên chúng không cho phép chuyển đổi vị trí hai tân ngữ trực tiếp và gián tiếp.
+
+I introduce John to Dr. Tim. I introduce Dr. Tim to John. He mentions the party to me.

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EnglishPlus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tuvung">3000 từ tiếng anh cơ bản</string>
+    <string name="title_activity_word">Word</string>
+    <string name="title_activity_dongtubatquytac">IRREGULAR VERBS</string>
+    <string name="title_activity_activity__dongtubatquytac_item">IRREGULAR VERBS</string>
+    <string name="title_activity_activity__cau_list">PHRASES</string>
+    <string name="title_activity_activity_myenglish">My English</string>
+    <string name="btn_grammar">NGỮ PHÁP</string>
+    <string name="btn_vocabulary">TỪ VỰNG</string>
+    <string name="btnBQT">ĐỘNG TỪ BQT</string>
+    <string name="btn1000">1000 CÂU</string>
+    <string name="btn_introduction">MY ENGLISH</string>
+    <string name="btn_exit">THOÁT</string>
+    <string name="title_activity_grammar">GrammarActivity</string>
+    <string name="title_activity_about">INFO</string>
+    <string name="title_activity_hello">EnglishPlus</string>
+    <string name="title_activity_dialogs">DialogsActivity</string>
+    <string-array name="array1">
+        <item >(n)</item>
+        <item >(v)</item>
+        <item >(adj)</item>
+        <item >(adv)</item>
+    </string-array>
+
+</resources>

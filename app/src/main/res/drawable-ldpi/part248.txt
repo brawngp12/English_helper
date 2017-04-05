@@ -1,0 +1,12 @@
+  S + V + such + a + adjective + singular count noun + that + S + V
+
+HOẶC
+
+  S + V + so + adjective + a + singular count noun + that + S + V
+
+ex :
+
+It was such a hot day that we decided to stay indoors. 
+It was so hot a day that we decided to stay indoors.
+It was such an interesting book that he couldn’t put it down. \
+It was so interesting a book that he couldn’t put it down.

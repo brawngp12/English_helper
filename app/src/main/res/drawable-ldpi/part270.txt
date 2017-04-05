@@ -1,0 +1,5 @@
+Là loại mệnh đề mang thông tin phụ trong câu, nếu bỏ nó đi câu không mất nghĩa ban đầu. Không được dùng that làm chủ ngữ mà phải dùng which, cho dù which có là tân ngữ của mệnh đề phụ cũng không được phép bỏ nó đi. Câu phụ thường đứng chen vào giữa câu chính và bắt buộc phải tách khỏi câu chính bằng 2 dấu phẩy. Xét hai ví dụ sau:
+
+My car, which is very large, uses too much gasoline.
+This rum, which I bought in the Virgin Islands, is very smooth.
+

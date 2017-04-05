@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Studi\HOU\Android\Project\English_helper\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Studi\HOU\Android\Project\English_helper\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b97b0366faf4b351314db74b27458506086b830a.jar" />
+    </item>
+    <item
+        jar="D:\Studi\HOU\Android\Project\English_helper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Studi\HOU\Android\Project\English_helper\app\build\intermediates\pre-dexed\debug\classes-69308a9afcca9763980a7a581e7e564ec0ea33b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tuan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Studi\HOU\Android\Project\English_helper\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2903a32e6b71faa83d54c547fa258a77544dd16e.jar" />
+    </item>
+    <item
+        jar="D:\Studi\HOU\Android\Project\English_helper\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Studi\HOU\Android\Project\English_helper\app\build\intermediates\pre-dexed\debug\classes-d6f25ea0d774e2c68cc36a98924a44ce90a802d1.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,13 @@
+Phó từ chỉ tần xuất cũng phân làm 2 loại: tần suất tuyệt đối (once a week, twice a month,
+...) và tần xuất tương đối (always, nearly always, usually, often, quite often, sometimes, occasionally, hardly ever, never). 
+Tần xuất tuyệt đối được dùng giống như phó từ chỉ thời gian, thường đứng đầu câu hoặc cuối câu. 
+Tần xuất tương đối lại thường đứng giữa câu, sau chủ ngữ và trước động từ chính (nhưng sau động từ be)
+ex :
+
+Sally always gets here on time. 
+Fred is sometimes late for class.
+
+Các phó từ chỉ tần xuất như: occasionally, sometimes, often... có thể đứng đầu câu hoặc cuối câu:
+
+Things get complicated sometimes. 
+Often I forget where I put things.

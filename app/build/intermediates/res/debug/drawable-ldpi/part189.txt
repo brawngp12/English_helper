@@ -1,0 +1,8 @@
+Câu điều kiện không có thực dùng để diễn tả một hành động hoặc một trạng thái sẽ xảy ra hoặc đã có thể xảy ra nếu như tình huống được đặt ra trong câu khác với thực tế đang xảy ra hoặc đã xảy ra. Câu điều kiện không có thực thường gây nhầm lẫn vì sự thực về sự
+kiện mà câu thể hiện lại trái ngược với cách thể hiện của câu: nếu động từ của câu là khẳng định thì ý nghĩa thực của câu lại là phủ định và ngược lại.
+
+If I were rich, I would travel around the world.
+(I am not rich) (I’m not going to travel around the world)
+
+If I hadn’t been in a hurry, I wouldn’t have had an accident. 
+(I was in a hurry) (I had an accident)

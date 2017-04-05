@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    android:layout_weight="1"
+    android:orientation="vertical" >
+    <TableRow android:layout_weight="2" >
+        <Button
+            android:id="@+id/btn1000"
+            style="@style/DashboardButton"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/btn_game"
+            android:text="@string/btn1000" />
+        <Button
+            android:id="@+id/btn_grammar"
+            style="@style/DashboardButton"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/btn_grammar"
+            android:text="@string/btn_grammar" />
+    </TableRow>
+    <TableRow android:layout_weight="2" >
+        <Button
+            android:id="@+id/btn_vocabulary"
+            style="@style/DashboardButton"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/btn_vocabulary"
+            android:text="@string/btn_vocabulary" />
+        <Button
+            android:id="@+id/btnBQT"
+            style="@style/DashboardButton"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/btn_test"
+            android:text="@string/btnBQT" />
+    </TableRow>
+    <TableRow android:layout_weight="2" >
+        <Button
+            android:id="@+id/btn_exit"
+            style="@style/DashboardButton"
+            android:layout_weight="1"
+            android:onClick ="ClickExit"
+            android:drawableTop="@drawable/btn_exit"
+            android:text="@string/btn_exit" />
+        <Button
+            android:id="@+id/btn_introduction"
+            style="@style/DashboardButton"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/btn_introduction"
+            android:text="@string/btn_introduction" />
+    </TableRow>
+</TableLayout>

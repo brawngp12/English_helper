@@ -1,0 +1,31 @@
+Khi thông tin trong câu bị lặp đi lặp lại không cần thiết thì nó bị gọi là thông tin thừa, cần phải loại bỏ phần thừa đó. Ví dụ: Người Anh không dùng the time when mà chỉ dùng một trong hai.
+It is (the time/ when) I got home.
+Người Anh không dùng the place where mà chỉ dùng một trong hai.
+It is (the place/ where) I was born.
+
+Câu đúng 
+Mr. Henry is a lawyer, a politician, and he teaches.
+
+Câu sai
+Mr. Henry is a lawyer, a politician, and a teacher.
+
+Câu đúng
+Peter is rich, handsome, and many people like him.
+
+Câu sai
+Peter is rich, handsome, and popular.
+
+Cấu đúng
+The cat approached the mouse slowly and silent.
+
+Câu sai
+The cat approached the mouse slowly and silently.
+
+câu đúng
+When teenagers finish highschool, they have several choices: going to college, getting a job, or the army.
+
+câu sai
+When teenagers finish highschool, they have several choices: going to college, getting a job, or joining the army.
+
+Tuy nhiên nếu thời gian trong các mệnh đề khác nhau của câu là khác nhau thì động từ cũng phải tuân theo qui luật thời gian. Lúc đó cấu trúc câu song song về thời của các động từ (như ví dụ ở dòng cuối bảng trên) không được áp dụng. Ví dụ:
+She is a senior, studies every day, and will graduate a semester early.

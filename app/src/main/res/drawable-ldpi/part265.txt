@@ -1,0 +1,10 @@
+Nó thay thế cho danh từ bất động vật đứng trước nó, mở đầu câu phụ nhưng đóng vai trò tân ngữ trong câu phụ. Trong trường hợp này có thể lược bỏ that hoặc which:
+
+George is going to buy the house (that) we have been thinking of buying. (George is going to buy a house. We have been thinking of buying it.)
+
+Người ta dùng that chứ không dùng which khi:
++ đứng trước nó là một tính từ so sánh bậc nhất + danh từ
+  That is the best novel that has been written by this author.
++ Khi đằng trước nó là một số các đại từ phiếm chỉ như all, some, any, anything, everything, much, little, nothing v.v..
+  I want to see all that he possesses.
+  All the apples that fall are eaten by pig.

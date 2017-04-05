@@ -1,0 +1,8 @@
+The big thunder storm caused many waterfront houses damaged.
+Nếu tân ngữ của make là một động từ nguyên thể thì phải đặt it giữa make và tính từ, đặt
+động từ ra phía đằng sau: make it + adj + V as object.
+The wire service made it possible to collect and distribute news faster and cheaper.
+
+Tuy nhiên nếu tân ngữ của make là 1 danh từ hay 1 ngữ danh từ thì không được đặt it
+giữa make và tính từ: Make + adj + noun/ noun phrase.
+The wire service made possible much speedier collection and distribution of news.

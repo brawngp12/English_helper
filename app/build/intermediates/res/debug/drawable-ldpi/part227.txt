@@ -1,0 +1,12 @@
+Khi dùng câu so sánh nên nhớ các đối tượng dùng để so sánh phải tương đương nhau: người với người, vật với vật. Các lỗi thường mắc phải khi sử dụng câu so sánh không hợp lý được chia làm 3 loại: sở hữu cách, that of và those of.
+
+19.3.1 Sở hữu cách:
+
+Incorrect: His drawings are as perfect as his instructor.
+(Câu này so sánh các bức tranh với người chỉ dẫn)
+Correct: His drawings are as perfect as his instructor’s. (instructor's = instructor's drawings)
+
+19.3.2 Dùng thêm that of cho danh từ số ít:
+
+Incorrect: The salary of a professor is higher than a secretary. (Câu này so sánh salary với secretary)
+Correct: The salary of a professor is higher than that of a secretary. (that of = the salary of)

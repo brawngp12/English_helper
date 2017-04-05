@@ -1,0 +1,3 @@
+Incorrect: The duties of a policeman are more dangerous than a teacher . (Câu này so sánh duties với teacher)
+Correct: The duties of a policeman are more dangerous than those of a teacher
+(those of = the duties of)

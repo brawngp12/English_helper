@@ -1,0 +1,73 @@
+Một V-ing có thể được dùng để nối hai câu có cùng chủ ngữ trở thành một câu bằng cách biến động từ của câu thứ nhất thành dạng V-ing, bỏ chủ ngữ và nối với câu thứ hai bằng dấu phảy. Ví dụ:
+
+The man jumped out of the boat. He was bitten by a shark.
+=> After jumping out of the boat, the man was bitten by a shark.
+
+Khi sử dụng loại câu này cần hết sức lưu ý rằng chủ ngữ của mệnh đề chính bắt buộc phải là chủ ngữ hợp lý của mệnh đề phụ. Khi hai mệnh đề không có cùng chủ ngữ, người ta
+gọi đó là trường hợp chủ ngữ phân từ bất hợp lệ.
+
+SAI:	After jumping out of the boat, the shark bit the man.
+(Chúng ta ngầm hiểu là chủ ngữ thật sử của hành động nhảy khỏi thuyền là the man chứ không phải the shark)
+
+để đảm bảo không nhầm lẫn, ngay sau mệnh đề verb-ing ta nên đề cập ngay đến danh từ
+làm chủ ngữ cho cả hai mệnh đề.
+
+Thông thường có 6 giới từ đứng trước một V-ing mở đầu cho mệnh đề phụ, đó là: By
+(bằng cách, bởi), upon, after (sau khi), before (trước khi), while (trong khi), when (khi).
+
+By working a ten-hour day for four days, we can have a long weekend. After preparing the dinner, Pat will read a book.
+While reviewing for the test, Mary realized that she had forgotten to study the use of participial phrases.
+
+Lưu ý rằng: on + động từ trạng thái hoặc in + động từ hành động thì có thể tương đương với when hoặc while:
+ 
+On finding the door ajar, I aroused suspicion. (= when finding) (Khi thấy cửa hé mở, tôi nảy sinh mối nghi ngờ)
+In searching for underground deposits of oil, geologist often rely on magnometers. (=
+while searching)
+(Trong khi tìm các mỏ dầu trong lòng đất, các nhà địa chất thường dựa vào từ kế.)
+
+Nếu không có giới từ đi trước, chỉ có V-ing xuất hiện trong mệnh đề phụ thì thời của câu do thời của động từ ở mệnh đề chính quyết định; 2 hành động trong hai mệnh đề thường xảy ra song song cùng lúc:
+
+Present:
+
+Practicing her swing every day, Trica hopes to get a job as a golf instructor.
+
+Past:
+
+Having a terrible toothache, Henry called the dentist for an appointment.
+
+Future:
+
+Finishing the letter later tonight, Sally will mail it tomorrow morning.
+
+Dạng thức hoàn thành [having + P2] được dùng để diễn đạt trường hợp động từ của mệnh
+đề phụ xảy ra trước hành động của mệnh đề chính:
+
+Having finished their supper, the boys went out to play. (After the boys had finished their supper...)
+Having written his composition, Louie handed it to his teacher. (After Louie had written ...)
+Not having read the book, she could not answer the question. (Because she had not read...)
+
+Dạng thức bị động [having been + P2] cũng thường được sử dụng để mở đầu một mệnh
+đề phụ:
+
+Having been notified by the court, Mary reported for jury duty. (After Mary had been notified ...)
+Having been delayed by the snowstorm, Jame and I missed our connecting flight. (After we had been delayed ...)
+Not having been notified of the change in the meeting time, George arrived late. (Because he had not been notified ...)
+
+Trong nhiều trường hợp, cụm từ being hoặc having been của thể bị động có thể được lược bỏ, khi đó chủ ngữ của mệnh đề chính vẫn phải phù hợp với chủ ngữ của mệnh đề phụ:
+ 
+Incorrect: Found in Tanzania by Mary Leaky, some archeologists estimated that the three - million - year - old fossils were the oldest human remains that were discovered. (Being found ...)
+
+Correct: Found in Tanzania by Mary Leaky, the three-million-year-old fossils were estimated by some archeologists to be the oldest human remains that had ever been discovered.
+
+Xét thêm các ví dụ sau về chủ ngữ phân từ bất hợp lệ:
+
+SAI:	Having apprehended the hijackers, they were whisked off to FBI headquarters by the security guards.
+đÚNG: Having apprehended the hijackers, the security guards whisked them off to FBI
+headquarters.
+đÚNG: Having been apprehended, the hijackers were whisked off to FBI headquarters by the security guards.
+
+SAI:	Before singing the school song, a poem was recited.
+đÚNG: Before singing the school song, the students recited a poem.
+
+SAI:	Guiding us through the museum, a special explanation was given by the director.
+đÚNG: Guiding us through the museum, the director gave us a special explanation.
